@@ -72,4 +72,4 @@ In conclusion, we came with a final breakdown of data points from our visualzati
 
 
 
-[link to dashboard](LINK GOES HERE)
+[link to dashboard](https://public.tableau.com/app/profile/marlon.roach/viz/CitiBike_16339119375980/Story1?publish=yes)
